@@ -213,47 +213,82 @@ Visit [habigrow.com](https://www.habigrow.com) for the complete experience.
 
 Join our community and stay updated with the latest tips, strategies, and inspiration for building better habits.
 
+<div align="center">
+
 ### 📱 Official Channels
 
-**🌍 [Website](https://www.habigrow.com)**  
-Complete resources, documentation, and habit-building guides. Download Habigrow and access all features.
+[![Website](https://img.shields.io/badge/Website-habigrow.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.habigrow.com)
+[![Support](https://img.shields.io/badge/Support-Help%20Center-EA4335?style=for-the-badge&logo=support&logoColor=white)](https://www.habigrow.com/support)
 
-**📧 [Support](https://www.habigrow.com/support)**  
-Get help, report issues, and find answers to your questions about Habigrow habit tracker.
+**Website** - Complete resources, documentation, and habit-building guides  
+**Support** - Get help, report issues, and find answers to your questions
+
+---
 
 ### 📲 Social Media
 
-**🟦 [Twitter/X](https://twitter.com/habigrow)**  
-Daily habit tips, productivity insights, and quick updates. Follow for motivation and habit-building strategies.
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/habigrow)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/habigrow)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@habigrow)
+[![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white)](https://tiktok.com/@habigrow)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/habigrow)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/company/habigrow)
+[![Threads](https://img.shields.io/badge/Threads-000000?style=for-the-badge&logo=threads&logoColor=white)](https://www.threads.net/@habigrow)
 
-**📸 [Instagram](https://instagram.com/habigrow)**  
-Visual inspiration, habit tracking tips, success stories, and beautiful habit-building content.
+**Follow us** for daily habit tips, productivity insights, visual inspiration, and expert advice
 
-**🎬 [YouTube](https://youtube.com/@habigrow)**  
-Video tutorials, habit formation guides, app walkthroughs, and expert advice on building better habits.
-
-**🎵 [TikTok](https://tiktok.com/@habigrow)**  
-Quick habit tips, trending content, and engaging videos about habit tracking and personal growth.
-
-**📘 [Facebook](https://facebook.com/habigrow)**  
-Join our community, share your progress, and connect with other Habigrow users building better habits.
-
-**💼 [LinkedIn](https://linkedin.com/company/habigrow)**  
-Professional habit-building content, productivity tips, and career growth strategies.
-
-**🧵 [Threads](https://www.threads.net/@habigrow)**  
-Real-time updates, habit tips, and conversations about personal development and habit formation.
+---
 
 ### 💬 Community Platforms
 
-**🟣 [Telegram](https://t.me/habigrow)**  
-Join our Telegram community for daily discussions, habit challenges, and peer support.
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/habigrow)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/r/habigrow)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/habigrow)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/habigrow)
 
-**🔺 [Reddit](https://reddit.com/r/habigrow)**  
-Share experiences, ask questions, and participate in discussions about habit tracking and goal achievement.
+**Join our communities** for discussions, habit challenges, peer support, and visual inspiration
 
-**📌 [Pinterest](https://pinterest.com/habigrow)**  
-Discover habit tracking ideas, goal-setting templates, and visual inspiration for your habit journey.
+---
+
+### 📝 Content & Authority
+
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@habigrow)
+[![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Habigrow)
+[![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-FF6B6B?style=for-the-badge&logo=mailchimp&logoColor=white)](https://www.habigrow.com/newsletter)
+
+**Read our content** - In-depth articles, expert insights, and weekly tips delivered to your inbox
+
+---
+
+### 🚀 Product & Launch
+
+[![Product Hunt](https://img.shields.io/badge/Product%20Hunt-FF6154?style=for-the-badge&logo=product-hunt&logoColor=white)](https://www.producthunt.com/@habigrow)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/habigrow/habigrow)
+[![App Store](https://img.shields.io/badge/App%20Store-0D96F6?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/habigrow-goal-habit-tracker/id6741381504)
+[![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=habit.tracker.habigrow)
+
+**Discover & Review** - Upvote on Product Hunt, contribute on GitHub, and share your experience on app stores
+
+---
+
+### 🏆 Trust & Credibility
+
+[![Trustpilot](https://img.shields.io/badge/Trustpilot-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/habigrow.com)
+[![G2 Crowd](https://img.shields.io/badge/G2%20Crowd-FF492C?style=for-the-badge&logo=g2&logoColor=white)](https://www.g2.com/products/habigrow)
+[![Crunchbase](https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/organization/habigrow)
+
+**Read reviews** - Authentic user feedback and professional ratings from trusted platforms
+
+---
+
+### 🎯 Tech Communities
+
+[![Hacker News](https://img.shields.io/badge/Hacker%20News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white)](https://news.ycombinator.com/user?id=habigrow)
+[![Indie Hackers](https://img.shields.io/badge/Indie%20Hackers-1DB584?style=for-the-badge&logo=indie-hackers&logoColor=white)](https://www.indiehackers.com/product/habigrow)
+
+**Connect with makers** - Tech discussions, product launches, and entrepreneur community
+
+</div>
 
 ---
 
