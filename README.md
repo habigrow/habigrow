@@ -22,6 +22,8 @@
 
 Thousands of people use Habigrow to build better habits, achieve their goals, and understand how their daily routines affect their mood and well-being. It's not just another app—it's your personal growth companion.
 
+[Download Habigrow for free](https://www.habigrow.com) and start building better habits today.
+
 ---
 
 ## ✨ What Makes Habigrow Special
@@ -68,33 +70,31 @@ Habigrow speaks your language. Available in English, Hindi, Arabic, Bengali, Chi
 
 ## 🖼 See Habigrow in Action
 
-<div style="overflow-x: auto; overflow-y: hidden; padding: 20px 0; -webkit-overflow-scrolling: touch;">
-  <div style="display: flex; flex-direction: row; gap: 15px; align-items: flex-start; min-width: max-content;">
-    <div style="flex: 0 0 auto; width: 200px; text-align: center;">
-      <img src="assets/screenshots/build_habits.png" alt="Build Your Habits" style="width: 200px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;">
-      <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Build Your Habits</p>
-      <p style="margin-top: 0; font-size: 12px; color: #666;">Create and customize habits</p>
-    </div>
-    <div style="flex: 0 0 auto; width: 200px; text-align: center;">
-      <img src="assets/screenshots/daily_habits.png" alt="Daily Habit Tracking" style="width: 200px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;">
-      <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Daily Habit Tracking</p>
-      <p style="margin-top: 0; font-size: 12px; color: #666;">Track your daily progress</p>
-    </div>
-    <div style="flex: 0 0 auto; width: 200px; text-align: center;">
-      <img src="assets/screenshots/habit_goals.png" alt="Habit Goals & Objectives" style="width: 200px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;">
-      <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Habit Goals</p>
-      <p style="margin-top: 0; font-size: 12px; color: #666;">Link habits to goals</p>
-    </div>
-    <div style="flex: 0 0 auto; width: 200px; text-align: center;">
-      <img src="assets/screenshots/track_goals.png" alt="Goal Progress Tracking" style="width: 200px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;">
-      <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Goal Progress</p>
-      <p style="margin-top: 0; font-size: 12px; color: #666;">Monitor goal achievement</p>
-    </div>
-    <div style="flex: 0 0 auto; width: 200px; text-align: center;">
-      <img src="assets/screenshots/habit_streaks.png" alt="Habit Streaks" style="width: 200px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;">
-      <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Streak Tracking</p>
-      <p style="margin-top: 0; font-size: 12px; color: #666;">Visual streak tracking</p>
-    </div>
+<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0;">
+  <div style="display: inline-block; white-space: normal; vertical-align: top; width: 200px; margin-right: 15px; text-align: center;">
+    <img src="assets/screenshots/build_habits.png" alt="Build Your Habits" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Build Your Habits</p>
+    <p style="margin-top: 0; font-size: 12px; color: #666;">Create and customize habits</p>
+  </div>
+  <div style="display: inline-block; white-space: normal; vertical-align: top; width: 200px; margin-right: 15px; text-align: center;">
+    <img src="assets/screenshots/daily_habits.png" alt="Daily Habit Tracking" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Daily Habit Tracking</p>
+    <p style="margin-top: 0; font-size: 12px; color: #666;">Track your daily progress</p>
+  </div>
+  <div style="display: inline-block; white-space: normal; vertical-align: top; width: 200px; margin-right: 15px; text-align: center;">
+    <img src="assets/screenshots/habit_goals.png" alt="Habit Goals & Objectives" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Habit Goals</p>
+    <p style="margin-top: 0; font-size: 12px; color: #666;">Link habits to goals</p>
+  </div>
+  <div style="display: inline-block; white-space: normal; vertical-align: top; width: 200px; margin-right: 15px; text-align: center;">
+    <img src="assets/screenshots/track_goals.png" alt="Goal Progress Tracking" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Goal Progress</p>
+    <p style="margin-top: 0; font-size: 12px; color: #666;">Monitor goal achievement</p>
+  </div>
+  <div style="display: inline-block; white-space: normal; vertical-align: top; width: 200px; text-align: center;">
+    <img src="assets/screenshots/habit_streaks.png" alt="Habit Streaks" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
+    <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Streak Tracking</p>
+    <p style="margin-top: 0; font-size: 12px; color: #666;">Visual streak tracking</p>
   </div>
 </div>
 
@@ -122,16 +122,16 @@ Visit [habigrow.com](https://www.habigrow.com) to use Habigrow in your browser
 ## 💡 Why People Love Habigrow
 
 ### For Students
-Students use Habigrow to build study routines, track revision schedules, and maintain focus habits. It helps them stay organized and achieve academic success.
+Students use Habigrow to build study routines, track revision schedules, and maintain focus habits. It helps them stay organized and achieve academic success. [Learn how students use Habigrow](https://www.habigrow.com).
 
 ### For Professionals
-Busy professionals rely on Habigrow to optimize productivity, track skill development, and establish consistent work routines. It's their secret weapon for career growth.
+Busy professionals rely on Habigrow to optimize productivity, track skill development, and establish consistent work routines. It's their secret weapon for career growth. [See how professionals benefit](https://www.habigrow.com).
 
 ### For Fitness Enthusiasts
-Fitness lovers use Habigrow to maintain exercise consistency, improve sleep patterns, and build mindfulness practices. It keeps them accountable and motivated.
+Fitness lovers use Habigrow to maintain exercise consistency, improve sleep patterns, and build mindfulness practices. It keeps them accountable and motivated. [Discover fitness tracking features](https://www.habigrow.com).
 
 ### For Everyone
-Whether you're just starting your habit-building journey or you're a seasoned pro, Habigrow adapts to your needs. Start simple and grow from there.
+Whether you're just starting your habit-building journey or you're a seasoned pro, Habigrow adapts to your needs. Start simple and grow from there. [Get started with Habigrow](https://www.habigrow.com).
 
 ---
 
@@ -171,7 +171,7 @@ Habigrow is designed to be beautiful and easy to use. The interface is clean and
 
 ## 🔒 Your Privacy Matters
 
-Habigrow takes your privacy seriously. Your data belongs to you, and it always will. The app stores your information securely, and you have complete control. Habigrow never sells your personal information—ever.
+Habigrow takes your privacy seriously. Your data belongs to you, and it always will. The app stores your information securely, and you have complete control. Habigrow never sells your personal information—ever. [Read our privacy policy](https://www.habigrow.com/privacy).
 
 ---
 
@@ -201,8 +201,9 @@ Habigrow has a helpful support team ready to assist you. Whether you have questi
 
 Want to dive deeper? Check out these resources:
 
-- [❓ Frequently Asked Questions](FAQ.md) - Get answers to common questions
-- [📝 Blog & Articles](BLOG.md) - Tips, strategies, and habit-building insights
+- [❓ Frequently Asked Questions](FAQ.md) - Get answers to common questions about Habigrow
+- [Official Website](https://www.habigrow.com) - Complete documentation, tips, and habit-building strategies
+- [Support Center](https://www.habigrow.com/support) - Help articles and guides
 
 Visit [habigrow.com](https://www.habigrow.com) for the complete experience.
 
