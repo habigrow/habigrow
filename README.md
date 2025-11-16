@@ -68,32 +68,32 @@ Habigrow speaks your language. Available in English, Hindi, Arabic, Bengali, Chi
 
 ## 🖼 See Habigrow in Action
 
-<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0;">
-  <div style="display: inline-flex; gap: 20px; align-items: flex-start;">
-    <div style="flex-shrink: 0; text-align: center; width: 280px;">
-      <img src="assets/screenshots/build_habits.png" alt="Build Your Habits" style="width: 100%; max-width: 280px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; font-weight: bold; font-size: 14px;">Build Your Habits</p>
-      <p style="margin-top: 5px; font-size: 12px; color: #666;">Create and customize habits</p>
+<div style="overflow-x: auto; overflow-y: hidden; padding: 20px 0; -webkit-overflow-scrolling: touch;">
+  <div style="display: flex; flex-direction: row; gap: 15px; align-items: flex-start; min-width: max-content;">
+    <div style="flex: 0 0 auto; width: 200px; text-align: center;">
+      <img src="assets/screenshots/build_habits.png" alt="Build Your Habits" style="width: 200px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;">
+      <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Build Your Habits</p>
+      <p style="margin-top: 0; font-size: 12px; color: #666;">Create and customize habits</p>
     </div>
-    <div style="flex-shrink: 0; text-align: center; width: 280px;">
-      <img src="assets/screenshots/daily_habits.png" alt="Daily Habit Tracking" style="width: 100%; max-width: 280px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; font-weight: bold; font-size: 14px;">Daily Habit Tracking</p>
-      <p style="margin-top: 5px; font-size: 12px; color: #666;">Track your daily progress</p>
+    <div style="flex: 0 0 auto; width: 200px; text-align: center;">
+      <img src="assets/screenshots/daily_habits.png" alt="Daily Habit Tracking" style="width: 200px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;">
+      <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Daily Habit Tracking</p>
+      <p style="margin-top: 0; font-size: 12px; color: #666;">Track your daily progress</p>
     </div>
-    <div style="flex-shrink: 0; text-align: center; width: 280px;">
-      <img src="assets/screenshots/habit_goals.png" alt="Habit Goals & Objectives" style="width: 100%; max-width: 280px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; font-weight: bold; font-size: 14px;">Habit Goals</p>
-      <p style="margin-top: 5px; font-size: 12px; color: #666;">Link habits to goals</p>
+    <div style="flex: 0 0 auto; width: 200px; text-align: center;">
+      <img src="assets/screenshots/habit_goals.png" alt="Habit Goals & Objectives" style="width: 200px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;">
+      <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Habit Goals</p>
+      <p style="margin-top: 0; font-size: 12px; color: #666;">Link habits to goals</p>
     </div>
-    <div style="flex-shrink: 0; text-align: center; width: 280px;">
-      <img src="assets/screenshots/track_goals.png" alt="Goal Progress Tracking" style="width: 100%; max-width: 280px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; font-weight: bold; font-size: 14px;">Goal Progress</p>
-      <p style="margin-top: 5px; font-size: 12px; color: #666;">Monitor goal achievement</p>
+    <div style="flex: 0 0 auto; width: 200px; text-align: center;">
+      <img src="assets/screenshots/track_goals.png" alt="Goal Progress Tracking" style="width: 200px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;">
+      <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Goal Progress</p>
+      <p style="margin-top: 0; font-size: 12px; color: #666;">Monitor goal achievement</p>
     </div>
-    <div style="flex-shrink: 0; text-align: center; width: 280px;">
-      <img src="assets/screenshots/habit_streaks.png" alt="Habit Streaks" style="width: 100%; max-width: 280px; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-      <p style="margin-top: 10px; font-weight: bold; font-size: 14px;">Streak Tracking</p>
-      <p style="margin-top: 5px; font-size: 12px; color: #666;">Visual streak tracking</p>
+    <div style="flex: 0 0 auto; width: 200px; text-align: center;">
+      <img src="assets/screenshots/habit_streaks.png" alt="Habit Streaks" style="width: 200px; height: auto; object-fit: contain; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1); display: block;">
+      <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Streak Tracking</p>
+      <p style="margin-top: 0; font-size: 12px; color: #666;">Visual streak tracking</p>
     </div>
   </div>
 </div>
