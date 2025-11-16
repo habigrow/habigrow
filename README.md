@@ -252,6 +252,7 @@ Join our community and stay updated with the latest tips, strategies, and inspir
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@habigrow)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Habigrow)
+
 **Read our content** - In-depth articles, expert insights, and weekly tips delivered to your inbox
 
 ---
