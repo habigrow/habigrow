@@ -70,35 +70,35 @@ Habigrow speaks your language. Available in English, Hindi, Arabic, Bengali, Chi
 
 ## 🖼 See Habigrow in Action
 
-<div style="overflow-x: auto; white-space: nowrap; padding: 20px 0;">
-  <div style="display: inline-block; white-space: normal; vertical-align: top; width: 200px; margin-right: 15px; text-align: center;">
-    <img src="assets/screenshots/build_habits.png" alt="Build Your Habits" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Build Your Habits</p>
-    <p style="margin-top: 0; font-size: 12px; color: #666;">Create and customize habits</p>
-  </div>
-  <div style="display: inline-block; white-space: normal; vertical-align: top; width: 200px; margin-right: 15px; text-align: center;">
-    <img src="assets/screenshots/daily_habits.png" alt="Daily Habit Tracking" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Daily Habit Tracking</p>
-    <p style="margin-top: 0; font-size: 12px; color: #666;">Track your daily progress</p>
-  </div>
-  <div style="display: inline-block; white-space: normal; vertical-align: top; width: 200px; margin-right: 15px; text-align: center;">
-    <img src="assets/screenshots/habit_goals.png" alt="Habit Goals & Objectives" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Habit Goals</p>
-    <p style="margin-top: 0; font-size: 12px; color: #666;">Link habits to goals</p>
-  </div>
-  <div style="display: inline-block; white-space: normal; vertical-align: top; width: 200px; margin-right: 15px; text-align: center;">
-    <img src="assets/screenshots/track_goals.png" alt="Goal Progress Tracking" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Goal Progress</p>
-    <p style="margin-top: 0; font-size: 12px; color: #666;">Monitor goal achievement</p>
-  </div>
-  <div style="display: inline-block; white-space: normal; vertical-align: top; width: 200px; text-align: center;">
-    <img src="assets/screenshots/habit_streaks.png" alt="Habit Streaks" style="width: 200px; height: auto; border-radius: 8px; box-shadow: 0 2px 8px rgba(0,0,0,0.1);">
-    <p style="margin-top: 10px; font-weight: bold; font-size: 14px; margin-bottom: 5px;">Streak Tracking</p>
-    <p style="margin-top: 0; font-size: 12px; color: #666;">Visual streak tracking</p>
-  </div>
-</div>
-
-<p style="text-align: center; margin-top: 15px; font-size: 13px; color: #888;"><em>Scroll horizontally to view all screenshots →</em></p>
+<table>
+  <tr>
+    <td align="center" width="20%">
+      <img src="assets/screenshots/build_habits.png" alt="Build Your Habits" width="180">
+      <br><strong>Build Your Habits</strong>
+      <br><small>Create and customize habits</small>
+    </td>
+    <td align="center" width="20%">
+      <img src="assets/screenshots/daily_habits.png" alt="Daily Habit Tracking" width="180">
+      <br><strong>Daily Habit Tracking</strong>
+      <br><small>Track your daily progress</small>
+    </td>
+    <td align="center" width="20%">
+      <img src="assets/screenshots/habit_goals.png" alt="Habit Goals & Objectives" width="180">
+      <br><strong>Habit Goals</strong>
+      <br><small>Link habits to goals</small>
+    </td>
+    <td align="center" width="20%">
+      <img src="assets/screenshots/track_goals.png" alt="Goal Progress Tracking" width="180">
+      <br><strong>Goal Progress</strong>
+      <br><small>Monitor goal achievement</small>
+    </td>
+    <td align="center" width="20%">
+      <img src="assets/screenshots/habit_streaks.png" alt="Habit Streaks" width="180">
+      <br><strong>Streak Tracking</strong>
+      <br><small>Visual streak tracking</small>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -211,19 +211,49 @@ Visit [habigrow.com](https://www.habigrow.com) for the complete experience.
 
 ## 🌐 Connect with Habigrow
 
-Follow Habigrow on social media for tips, updates, and inspiration:
+Join our community and stay updated with the latest tips, strategies, and inspiration for building better habits.
 
-- 🌍 **Website:** [habigrow.com](https://www.habigrow.com)
-- 🟦 **Twitter/X:** [@habigrow](https://twitter.com/habigrow)
-- 📸 **Instagram:** [@habigrow](https://instagram.com/habigrow)
-- 🎬 **YouTube:** [@habigrow](https://youtube.com/@habigrow)
-- 🎵 **TikTok:** [@habigrow](https://tiktok.com/@habigrow)
-- 📘 **Facebook:** [@habigrow](https://facebook.com/habigrow)
-- 📌 **Pinterest:** [@habigrow](https://pinterest.com/habigrow)
-- 💼 **LinkedIn:** [@habigrow](https://linkedin.com/company/habigrow)
-- 🧵 **Threads:** [@habigrow](https://www.threads.net/@habigrow)
-- 🟣 **Telegram:** [@habigrow](https://t.me/habigrow)
-- 🔺 **Reddit:** [r/habigrow](https://reddit.com/r/habigrow)
+### 📱 Official Channels
+
+**🌍 [Website](https://www.habigrow.com)**  
+Complete resources, documentation, and habit-building guides. Download Habigrow and access all features.
+
+**📧 [Support](https://www.habigrow.com/support)**  
+Get help, report issues, and find answers to your questions about Habigrow habit tracker.
+
+### 📲 Social Media
+
+**🟦 [Twitter/X](https://twitter.com/habigrow)**  
+Daily habit tips, productivity insights, and quick updates. Follow for motivation and habit-building strategies.
+
+**📸 [Instagram](https://instagram.com/habigrow)**  
+Visual inspiration, habit tracking tips, success stories, and beautiful habit-building content.
+
+**🎬 [YouTube](https://youtube.com/@habigrow)**  
+Video tutorials, habit formation guides, app walkthroughs, and expert advice on building better habits.
+
+**🎵 [TikTok](https://tiktok.com/@habigrow)**  
+Quick habit tips, trending content, and engaging videos about habit tracking and personal growth.
+
+**📘 [Facebook](https://facebook.com/habigrow)**  
+Join our community, share your progress, and connect with other Habigrow users building better habits.
+
+**💼 [LinkedIn](https://linkedin.com/company/habigrow)**  
+Professional habit-building content, productivity tips, and career growth strategies.
+
+**🧵 [Threads](https://www.threads.net/@habigrow)**  
+Real-time updates, habit tips, and conversations about personal development and habit formation.
+
+### 💬 Community Platforms
+
+**🟣 [Telegram](https://t.me/habigrow)**  
+Join our Telegram community for daily discussions, habit challenges, and peer support.
+
+**🔺 [Reddit](https://reddit.com/r/habigrow)**  
+Share experiences, ask questions, and participate in discussions about habit tracking and goal achievement.
+
+**📌 [Pinterest](https://pinterest.com/habigrow)**  
+Discover habit tracking ideas, goal-setting templates, and visual inspiration for your habit journey.
 
 ---
 
