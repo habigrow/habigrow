@@ -6,9 +6,9 @@
 
 **Transform Your Life, One Habit at a Time**
 
-[![Website](https://img.shields.io/badge/Website-habigrow.com-blue?style=for-the-badge)](https://www.habigrow.com)
-[![Android](https://img.shields.io/badge/Android-Play%20Store-green?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=habit.tracker.habigrow)
-[![iOS](https://img.shields.io/badge/iOS-App%20Store-black?style=for-the-badge&logo=app-store)](https://apps.apple.com/us/app/habigrow-goal-habit-tracker/id6741381504)
+[![Website](https://img.shields.io/badge/Website-habigrow.com-086BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.habigrow.com)
+[![Android](https://img.shields.io/badge/Android-Play%20Store-0990EB?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=habit.tracker.habigrow)
+[![iOS](https://img.shields.io/badge/iOS-App%20Store-12C4FF?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/habigrow-goal-habit-tracker/id6741381504)
 
 [Features](#-what-makes-habigrow-special) • [Screenshots](#-see-habigrow-in-action) • [Download](#-get-habigrow-today) • [Learn More](#-learn-more)
 
@@ -109,10 +109,10 @@ Habigrow speaks your language. Available in English, Hindi, Arabic, Bengali, Chi
 Habigrow is available on all your favorite platforms. Download it today and start building better habits.
 
 **Android Users**  
-[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-414141?style=for-the-badge&logo=google-play)](https://play.google.com/store/apps/details?id=habit.tracker.habigrow)
+[![Get it on Google Play](https://img.shields.io/badge/Get%20it%20on-Google%20Play-0990EB?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=habit.tracker.habigrow)
 
 **iPhone & iPad Users**  
-[![Download on the App Store](https://img.shields.io/badge/Download%20on-App%20Store-000000?style=for-the-badge&logo=app-store)](https://apps.apple.com/us/app/habigrow-goal-habit-tracker/id6741381504)
+[![Download on the App Store](https://img.shields.io/badge/Download%20on-App%20Store-086BFF?style=for-the-badge&logo=app-store&logoColor=white)](https://apps.apple.com/us/app/habigrow-goal-habit-tracker/id6741381504)
 
 **Web Users**  
 Visit [habigrow.com](https://www.habigrow.com) to use Habigrow in your browser
@@ -217,8 +217,8 @@ Join our community and stay updated with the latest tips, strategies, and inspir
 
 ### 📱 Official Channels
 
-[![Website](https://img.shields.io/badge/Website-habigrow.com-4285F4?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.habigrow.com)
-[![Support](https://img.shields.io/badge/Support-Help%20Center-EA4335?style=for-the-badge&logo=support&logoColor=white)](https://www.habigrow.com/support)
+[![Website](https://img.shields.io/badge/Website-habigrow.com-086BFF?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.habigrow.com)
+[![Support](https://img.shields.io/badge/Support-Help%20Center-0990EB?style=for-the-badge&logo=support&logoColor=white)](https://www.habigrow.com/support)
 
 **Website** - Complete resources, documentation, and habit-building guides  
 **Support** - Get help, report issues, and find answers to your questions
@@ -241,10 +241,8 @@ Join our community and stay updated with the latest tips, strategies, and inspir
 
 ### 💬 Community Platforms
 
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/habigrow)
-[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/r/habigrow)
+[![Reddit](https://img.shields.io/badge/Reddit-FF4500?style=for-the-badge&logo=reddit&logoColor=white)](https://reddit.com/u/habigrow)
 [![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/habigrow)
-[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/habigrow)
 
 **Join our communities** for discussions, habit challenges, peer support, and visual inspiration
 
@@ -254,8 +252,6 @@ Join our community and stay updated with the latest tips, strategies, and inspir
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@habigrow)
 [![Quora](https://img.shields.io/badge/Quora-B92B27?style=for-the-badge&logo=quora&logoColor=white)](https://www.quora.com/profile/Habigrow)
-[![Newsletter](https://img.shields.io/badge/Newsletter-Subscribe-FF6B6B?style=for-the-badge&logo=mailchimp&logoColor=white)](https://www.habigrow.com/newsletter)
-
 **Read our content** - In-depth articles, expert insights, and weekly tips delivered to your inbox
 
 ---
@@ -268,27 +264,6 @@ Join our community and stay updated with the latest tips, strategies, and inspir
 [![Google Play](https://img.shields.io/badge/Google%20Play-414141?style=for-the-badge&logo=google-play&logoColor=white)](https://play.google.com/store/apps/details?id=habit.tracker.habigrow)
 
 **Discover & Review** - Upvote on Product Hunt, contribute on GitHub, and share your experience on app stores
-
----
-
-### 🏆 Trust & Credibility
-
-[![Trustpilot](https://img.shields.io/badge/Trustpilot-00B67A?style=for-the-badge&logo=trustpilot&logoColor=white)](https://www.trustpilot.com/review/habigrow.com)
-[![G2 Crowd](https://img.shields.io/badge/G2%20Crowd-FF492C?style=for-the-badge&logo=g2&logoColor=white)](https://www.g2.com/products/habigrow)
-[![Crunchbase](https://img.shields.io/badge/Crunchbase-0288D1?style=for-the-badge&logo=crunchbase&logoColor=white)](https://www.crunchbase.com/organization/habigrow)
-
-**Read reviews** - Authentic user feedback and professional ratings from trusted platforms
-
----
-
-### 🎯 Tech Communities
-
-[![Hacker News](https://img.shields.io/badge/Hacker%20News-FF6600?style=for-the-badge&logo=y-combinator&logoColor=white)](https://news.ycombinator.com/user?id=habigrow)
-[![Indie Hackers](https://img.shields.io/badge/Indie%20Hackers-1DB584?style=for-the-badge&logo=indie-hackers&logoColor=white)](https://www.indiehackers.com/product/habigrow)
-
-**Connect with makers** - Tech discussions, product launches, and entrepreneur community
-
-</div>
 
 ---
 
